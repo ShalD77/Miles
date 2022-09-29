@@ -5,5 +5,6 @@ public class Main {
         int miles = price / 20;
 
         System.out.println("Бонус:" + miles);
+        int bonus = 2500;
     }
 }
